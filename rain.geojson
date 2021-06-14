@@ -1,0 +1,28 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "id" : "0",
+    "properties" : {
+      "uniqueId" : "7ffffff",
+      "category" : "precip",
+      "type" : "rain",
+      "level" : 0.86,
+      "area" : 80.968,
+      "children" : [ ],
+      "parent" : "1",
+      "countries" : [ "ESP" ]
+    },
+    "geometry" : {
+      "type" : "Polygon",
+      "coordinates" : [ [ [ -3.774, 37.513 ], [ -3.68, 37.568 ], [ -3.67, 37.628 ], [ -3.695, 37.653 ], [ -3.759, 37.608 ], [ -3.779, 37.518 ] ] ]
+    },
+    "bbox" : [ -3.779, 37.513, -3.67, 37.653 ]
+  } ],
+  "properties" : {
+    "forecastOffset" : 15,
+    "creationTime" : "2015-10-13T11:14:53.70Z",
+    "timeStamp" : "2015-10-13T11:14:53.70Z",
+    "rootTimeStamp" : "2015-10-13T11:14:53.70Z"
+  }
+}
